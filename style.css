@@ -1,0 +1,32 @@
+h1{
+font-size: 30px;
+text-align: center;
+font-family: Georgia, serif;
+color: #FFC000;
+}
+
+h2{
+font-size: 25px;
+text-align: center;
+font-family: Georgia, serif;
+color: #FFC000;
+}
+
+p1{
+font-size: 20px;
+text-align: left;
+font-family: Brush Script MT;
+}
+
+p{
+font-family: Georgia, serif;
+text-align: center;
+}
+
+a{
+	text-align: center;
+}
+
+body {
+background-color: #71797E;
+}
